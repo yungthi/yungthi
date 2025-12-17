@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou Thiago Noberto</h1>
+<h1 align="center">Olá, eu sou Thiago Noberto👨‍💻</h1>
 <h3 align="center">Formado como Técnico em Desenvolvimento de sistemas</h3>
 
-Experiência prática em desenvolvimento web e mobile, atuando no front-end e back-end com Java, Spring Boot, React e bancos de dados SQL/NoSQL.
-Buscando constantemente novos desafios para ampliar meus conhecimentos e contribuir para projetos com impacto real.
+<p>Experiência prática em desenvolvimento web e mobile, atuando no front-end e back-end com Java, Spring Boot, React e bancos de dados SQL/NoSQL.</p>
+<p>Buscando constantemente novos desafios para ampliar meus conhecimentos e contribuir para projetos com impacto real.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yungthi&label=Profile%20views&color=0e75b6&style=flat" alt="yungthi" /> </p>
 
